@@ -208,7 +208,7 @@ Spring Boot 推荐用户使用 logback-spring.xml、log4j2-spring.xml 等这种�
 
 更多相关配置可以参考：[Spring Boot日志配置及输出](http://c.biancheng.net/spring_boot/log-config.html)
 
-### ## Log4j2.xml
+## Log4j2.xml
 
 为了支持Log4j2，首先要在springboot相关的start中去除掉默认引用的`logback`的包,并加入`spring-boot-starter-log4j2`。
 
