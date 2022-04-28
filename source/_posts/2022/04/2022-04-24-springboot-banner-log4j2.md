@@ -11,9 +11,9 @@ categories: Diary
 header-img: /img/bf/java.jpg
 tags:
     - java
-    - Spring
-    - SpringBoot
-    - Log4j2
+    - spring
+    - springboot
+    - log4j2
 ---
 
 ## Overview
