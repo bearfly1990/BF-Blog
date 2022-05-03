@@ -8,7 +8,7 @@ header-img: img/bf/python.jpg
 catalog: true
 tags:
   - Pandas
-  - Python
+  - python
 ---
 
 # 背景
@@ -84,7 +84,7 @@ def concat_student_score(file_student, file_score, file_score2):
 | 12  | 5   | 语文  | 77    | BF   |
 | 13  | 5   | 数学  | 88    | BF   |
 | 14  | 5   | 英文  | 66    | BF   |
- 
+
 以上是最简单的应用，还有许多的参数可以控制合并的细节，可以参考下面的资料，尤其是最后的官方的与 sql 的对比应用，大部分 sql 能实现的，pandas 都可以
 
 [demo05](https://github.com/bearfly1990/PowerScript/tree/master/Python3/pandas/demo05_merge_df)
