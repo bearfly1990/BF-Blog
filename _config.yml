@@ -3,7 +3,8 @@ subtitle: ''
 description: ''
 keywords: null
 author: bearfly1990
-language: en
+# language: en
+language: zh-cn
 timezone: ''
 url: https://bearfly1990.github.io/
 permalink: ':year/:month/:day/:title/'
