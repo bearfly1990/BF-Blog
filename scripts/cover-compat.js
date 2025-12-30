@@ -19,11 +19,11 @@ hexo.extend.filter.register(
       if (post.data) {
         post.data.cover = headerImg;
       }
-      console.log(
-        `[Cover兼容] 文章《${
-          post.title || "未知"
-        }》映射 header-img → cover: ${headerImg}`
-      );
+      // console.log(
+        // `[Cover兼容] 文章《${
+          // post.title || "未知"
+        // }》映射 header-img → cover: ${headerImg}`
+      // );
     }
     return post;
   },
